@@ -1,0 +1,27 @@
+.img-container img {
+  display: block;
+  margin: 0 auto;
+}
+h1{
+    font-family: fantasy;
+}
+p{
+    margin: 40px;
+}
+body{
+     background-color: whitesmoke;
+}
+.carousel-container {
+    max-width: 1200px;    
+    margin: 20px auto;   
+}
+.carousel-wrapper {
+    max-width: 800px;      
+    margin: 40px auto;     
+}
+
+.carousel-wrapper img {
+    height: 400px;         
+    object-fit: cover;   
+    border-radius: 10px; 
+}
